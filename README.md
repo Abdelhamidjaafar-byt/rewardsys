@@ -1,4 +1,4 @@
-# CoffeSopRewards
+# CoffeShopRewards
 
 
 ---
@@ -10,8 +10,8 @@
    - **Start the project**: Use `npm run dev` to start the Vite development server.
 
 
-###Class diagram
+### Class diagram
 ![Class Diagram](./src/picture/classDiag.png)
-##Use case Diagram
+### Use case Diagram
 ![Use case Diagram](./src/picture/sequence.png)
 
